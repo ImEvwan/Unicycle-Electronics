@@ -8728,7 +8728,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Tail Light"
+		(property "Value" "Headlight"
 			(at 193.04 115.5699 90)
 			(effects
 				(font
