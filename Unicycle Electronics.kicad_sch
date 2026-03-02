@@ -7266,7 +7266,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f525e9e1-0024-466d-bbca-af5f0cc0d7fb")
-		(property "Reference" "D3"
+		(property "Reference" "Led"
 			(at 70.612 128.27 90)
 			(effects
 				(font
@@ -7274,7 +7274,7 @@
 				)
 			)
 		)
-		(property "Value" "Rear_LED_12V"
+		(property "Value" "Rear LED 12V"
 			(at 75.946 130.556 90)
 			(effects
 				(font
@@ -7315,7 +7315,7 @@
 		(instances
 			(project "Unicycle Electronics"
 				(path "/ec3276b7-5d55-49ff-87c5-86105b5f1dbf"
-					(reference "D3")
+					(reference "Led")
 					(unit 1)
 				)
 			)
