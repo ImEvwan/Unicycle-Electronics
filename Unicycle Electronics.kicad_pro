@@ -60,7 +60,7 @@
       ],
       "drc_exclusions": [
         [
-          "unconnected_items|171765410|120143220|F.Cu|4|00f831c7-e334-4b42-9266-1dfa46b1246c|cbefbca1-e22c-4554-a8a4-427878fa8867",
+          "unconnected_items|171765410|120143220|F.Cu|4|00f831c7-e334-4b42-9266-1dfa46b1246c|5843e7f0-f15d-43bb-be5b-b99984714c0a",
           ""
         ]
       ],
@@ -468,7 +468,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Unicycle"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {

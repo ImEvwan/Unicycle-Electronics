@@ -53,7 +53,7 @@
 			)
 		)
 	)
-	(attr smd)
+	(attr through_hole)
 	(fp_rect
 		(start -26.5 -37.5)
 		(end 26.5 37.5)
@@ -64,6 +64,17 @@
 		(fill no)
 		(layer "F.SilkS")
 		(uuid "a6fdcdca-17e3-4e8e-8256-c51eac1b59bf")
+	)
+	(fp_rect
+		(start -27 -38)
+		(end 27 38)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "0bf055ee-7c57-4d6c-b346-c39447c91f0b")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 33.02 0 0)
