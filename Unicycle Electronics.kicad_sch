@@ -6326,7 +6326,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Unicycle:AO3402"
 			(at 100.33 155.575 0)
 			(effects
 				(font
